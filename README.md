@@ -45,8 +45,7 @@ A classic Pong clone built with React and JavaScript, featuring responsive UI an
 1. Open your browser to http://localhost:PORT/
 2. press Start Game
 3. press the Screen to start
-4. Use Mouse Movement to move 
-5. First player to reach the score limit wins
+4. First player to reach the score limit wins
 
 ## 🔧 Customization
 - Adjust speed & dimensions: Modify constants in src/components/Ball.js and Paddle.js
